@@ -7,3 +7,4 @@ them noi dung cung 1 file
 =======
 them 1
 >>>>>>> origin/master
+them noi dung 2
