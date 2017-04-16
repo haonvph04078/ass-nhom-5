@@ -1,9 +1,5 @@
 them noi dung
 them tren github
-
-test noi dung 2
-<<<<<<< HEAD
 them noi dung cung 1 file
-=======
 them 1
->>>>>>> origin/master
+
